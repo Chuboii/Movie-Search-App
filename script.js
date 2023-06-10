@@ -179,7 +179,7 @@ let genre = "with_genres=28,12"
   }
   movieLiveSearch()
     
-  
+  searchInput.value = ""
   })
 
 
